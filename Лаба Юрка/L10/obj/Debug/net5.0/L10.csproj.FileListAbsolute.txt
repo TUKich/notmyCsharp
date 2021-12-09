@@ -1,0 +1,16 @@
+C:\Users\TUKeS\RiderProjects\Лаба Юрка\L10\bin\Debug\net5.0\L10.exe
+C:\Users\TUKeS\RiderProjects\Лаба Юрка\L10\bin\Debug\net5.0\L10.deps.json
+C:\Users\TUKeS\RiderProjects\Лаба Юрка\L10\bin\Debug\net5.0\L10.runtimeconfig.json
+C:\Users\TUKeS\RiderProjects\Лаба Юрка\L10\bin\Debug\net5.0\L10.runtimeconfig.dev.json
+C:\Users\TUKeS\RiderProjects\Лаба Юрка\L10\bin\Debug\net5.0\L10.dll
+C:\Users\TUKeS\RiderProjects\Лаба Юрка\L10\bin\Debug\net5.0\ref\L10.dll
+C:\Users\TUKeS\RiderProjects\Лаба Юрка\L10\bin\Debug\net5.0\L10.pdb
+C:\Users\TUKeS\RiderProjects\Лаба Юрка\L10\obj\Debug\net5.0\L10.csproj.AssemblyReference.cache
+C:\Users\TUKeS\RiderProjects\Лаба Юрка\L10\obj\Debug\net5.0\L10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TUKeS\RiderProjects\Лаба Юрка\L10\obj\Debug\net5.0\L10.AssemblyInfoInputs.cache
+C:\Users\TUKeS\RiderProjects\Лаба Юрка\L10\obj\Debug\net5.0\L10.AssemblyInfo.cs
+C:\Users\TUKeS\RiderProjects\Лаба Юрка\L10\obj\Debug\net5.0\L10.csproj.CoreCompileInputs.cache
+C:\Users\TUKeS\RiderProjects\Лаба Юрка\L10\obj\Debug\net5.0\L10.dll
+C:\Users\TUKeS\RiderProjects\Лаба Юрка\L10\obj\Debug\net5.0\ref\L10.dll
+C:\Users\TUKeS\RiderProjects\Лаба Юрка\L10\obj\Debug\net5.0\L10.pdb
+C:\Users\TUKeS\RiderProjects\Лаба Юрка\L10\obj\Debug\net5.0\L10.genruntimeconfig.cache
